@@ -1,11 +1,11 @@
 # ReactNative101
-Turkcell Akademi - React Native 101 Eğitimi 
-    -Stillendirme ve Konumlandırma
-    -Components
-    -Temel Bileşenler
-    -States ve Lifecycle
-    -Navigation
-    -Fetching ve Axios
-    -Form Yönetimi
-    -Context API
-    -Zustand State Manager
+<b>Turkcell Akademi - React Native 101 Eğitimi </b><br/>
+    -Stillendirme ve Konumlandırma <br/>
+    -Components <br/>
+    -Temel Bileşenler <br/>
+    -States ve Lifecycle <br/>
+    -Navigation <br/>
+    -Fetching ve Axios <br/>
+    -Form Yönetimi <br/>
+    -Context API <br/>
+    -Zustand State Manager <br/>
